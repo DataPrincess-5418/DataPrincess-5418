@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Machine Learning, C, Parallel Computing, CNN, R-CNN, U-Net
 - 💞️ I’m looking to collaborate on any topics about topics listed up, hopefully the application of above approaches
 - 📫 How to reach me: shaoz20@wfu.edu
+- hobbies: Power Lifting, Boxing, Street Sports, Genshin Impact, used to be an Anime Fan
 
 <!---
 DataPrincess-5418/DataPrincess-5418 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
