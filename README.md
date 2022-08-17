@@ -9,6 +9,6 @@
 DataPrincess-5418/DataPrincess-5418 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<src img = "https://user-images.githubusercontent.com/76899663/185126379-da585212-12ce-4678-9a59-9eade660f5ed.jpg" width = 100>
+<!-- []<src img = "/DataPrincess-5418/我.jpg" width = 100> -->
 
 
